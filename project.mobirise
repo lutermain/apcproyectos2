@@ -42,7 +42,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "uniqCompNum": 38,
     "versionPublish": "5.0.29",
     "screenshot": "screenshot.png"
